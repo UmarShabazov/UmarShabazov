@@ -28,8 +28,6 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :telescope: I’m working as a Java Developer and contributing to backend for building web applications.
 
-- :seedling: Currently I`m a part of Chess Grinder project.
-
 - :zap: In my free time, I love play chess and swimming.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/UmarShabazov-blue?style=flat&logo=Telegram&logoColor=white)](t.me/rokkurokku)
