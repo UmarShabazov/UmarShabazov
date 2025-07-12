@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, currently live in Tbilisi, Georgia.
+I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, currently live in Moscow, Russia.
 
 - :telescope: I’m working as a Java Developer and contributing to backend for building web applications.
 
